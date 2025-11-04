@@ -8,5 +8,10 @@
   <body>
     <h1>EJS Practice</h1>
     <h2>Hello, <%= person.name %></h2>
+    <% if (person.occupation === 'Plumber') { %>
+    <p>You work with pipes</p>
+    <% } else { %>
+    <p>That's an interesting job!</p>
+    <% } %>
   </body>
 </html>
