@@ -2,7 +2,7 @@
   "name": "pair-program-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,12 +17,5 @@
   "bugs": {
     "url": "https://github.com/KevinSandoval12/pair-program-node.js/issues"
   },
-  "homepage": "https://github.com/KevinSandoval12/pair-program-node.js#readme",
-  "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
-  }
+  "homepage": "https://github.com/KevinSandoval12/pair-program-node.js#readme"
 }
